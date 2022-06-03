@@ -1,3 +1,7 @@
 Cecilia 1
 Este es un cambio en mi archivo
+<<<<<<< HEAD
 Nueva modificación
+=======
+agregado por marcela
+>>>>>>> 033e31f0bd335c6ab0701f3c18e20e164194809a
