@@ -1,7 +1,1 @@
 Cecilia 1
-
-<<<<<<< HEAD
-Nueva modificación
-=======
-agregado por marcela
->>>>>>> 033e31f0bd335c6ab0701f3c18e20e164194809a
