@@ -1,5 +1,5 @@
 Cecilia 1
-Este es un cambio en mi archivo
+
 <<<<<<< HEAD
 Nueva modificación
 =======
